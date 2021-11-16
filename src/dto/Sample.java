@@ -3,7 +3,8 @@ package dto;
 public class Sample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		System.out.println("변경 내용 확인");
 
 	}
 
